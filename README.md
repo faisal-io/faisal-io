@@ -63,7 +63,7 @@ class Faisal:
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase,elasticsearch&perline=8" alt="databases"/>
 </p>
 
-### 🤖 AI / ML / Data
+### 🤖 AI / ML / DataScience
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy,matplotlib&perline=7" alt="ai-ml"/>
 </p>
@@ -123,7 +123,11 @@ class Faisal:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 <!--
